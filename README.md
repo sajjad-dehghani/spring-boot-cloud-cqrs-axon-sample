@@ -1,5 +1,5 @@
 # CQRS and Event Sourcing in Spring Boot and Axon
-Sample code for Playing with CQRS and Event Sourcing in Spring Boot and Axon tutorial
+Sample code for CQRS and Event Sourcing in Spring Boot and Axon tutorial.
 
 # How to work?
 First start AxonServer, after that you can see axon dashboard on ``http://localhost:8024/``.
